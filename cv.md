@@ -19,3 +19,17 @@
 **Reading** - Pre-Intermediate<br>
 **Writing** - Pre-Intermediate<br>
 **Speaking** - Pre-Intermediate<br>
+### Professional skills
+  * strong skills at practical use of CSS3;
+  * strong skills at practical use of HTML5;
+  * basic JS;
+  * practical use of basic jQuery plugins;
+  * GULP, npm;
+  * SCSS/SASS/LESS;
+  * BEM methodology;
+  * CSS animation;
+  * adaptability;
+  * cross-browser compatibility;
+  * grid, flex;
+  * Photoshop, Figma;
+  * Bootstrap.
