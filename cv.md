@@ -33,3 +33,18 @@
   * grid, flex;
   * Photoshop, Figma;
   * Bootstrap.
+  ### Professional Activity
+##### Minsk, Belarus
+**Period** - From May 2019 to July 2019<br>
+**Role** - Studying of HTML and CSS<br>
+**School / Courses** - MyFreedom (https://myfreedom.by/)<br>
+
+**Period** - From September 2019 to December 2019<br>
+**Role** - Studying of JS<br>
+**School / Courses** - MyFreedom (https://myfreedom.by/)<br>
+
+**Period** - From June 2022 to now<br>
+**Role** - Studying of Frondend skills and create portfolio<br>
+**School / Courses** - RSSchool<br>
+### Keywords
+##### JavaScript; jQuery; HTML5; CSS3; Bootstrap; SCSS; LESS; SASS; BEM; GULP; CSS animation; Flex; Grid; Figma; Photoshop.
